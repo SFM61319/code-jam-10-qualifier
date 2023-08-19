@@ -32,7 +32,7 @@ Your code will be tested with a multitude of tests to test all aspects of your c
 - You can run the tests locally by running the `unittest` suite with `python -m unittest tests.py` or `py -m unittest tests.py` from within the
   `./qualifier` directory.
 
-# Qualifier Assignment: Image Unscambling
+# Qualifier Assignment: Image Unscrambling
 
 The qualifier instructions can be found in [here](https://pythondiscord.notion.site/CJ-10-Qualifier-Brief-cde425ad420e4552ad82079627789d5d?pvs=4).
 
