@@ -1,4 +1,6 @@
-def valid_input(image_size: tuple[int, int], tile_size: tuple[int, int], ordering: list[int]) -> bool:
+def valid_input(
+    image_size: tuple[int, int], tile_size: tuple[int, int], ordering: list[int]
+) -> bool:
     """
     Return True if the given input allows the rearrangement of the image, False otherwise.
 
@@ -7,7 +9,9 @@ def valid_input(image_size: tuple[int, int], tile_size: tuple[int, int], orderin
     """
 
 
-def rearrange_tiles(image_path: str, tile_size: tuple[int, int], ordering: list[int], out_path: str) -> None:
+def rearrange_tiles(
+    image_path: str, tile_size: tuple[int, int], ordering: list[int], out_path: str
+) -> None:
     """
     Rearrange the image.
 
